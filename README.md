@@ -4,7 +4,7 @@
 存放路径：/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/DeviceSupport
 
 ## 便捷单包下载地址：
-* [iOS 12.0 (16A5288q)](https://github.com/kiss587898/iOSDeviceSupport/raw/master/12.0%20(16A5288q).zip)
+* [iOS 12.0 (16A5308d)](https://github.com/kiss587898/iOSDeviceSupport/raw/master/12.0%20(16A5308d).zip)
 * [iOS 11.4](https://github.com/kiss587898/iOSDeviceSupport/raw/master/11.4.zip)
 * [iOS 11.4 (15F79)](https://github.com/kiss587898/iOSDeviceSupport/raw/master/11.4%20(15F79).zip)
 * [iOS 11.3](https://github.com/kiss587898/iOSDeviceSupport/raw/master/11.3.zip)
