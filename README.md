@@ -6,7 +6,6 @@
 ## 便捷单包下载地址：
 * [iOS 12.0 (16A366)](https://github.com/kiss587898/iOSDeviceSupport/raw/master/12.0%20(16A366).zip)
 * [iOS 11.4](https://github.com/kiss587898/iOSDeviceSupport/raw/master/11.4.zip)
-* [iOS 11.4 (15F79)](https://github.com/kiss587898/iOSDeviceSupport/raw/master/11.4%20(15F79).zip)
 * [iOS 11.3](https://github.com/kiss587898/iOSDeviceSupport/raw/master/11.3.zip)
 * [iOS 11.2](https://github.com/kiss587898/iOSDeviceSupport/raw/master/11.2.zip)
 * [iOS 11.1](https://github.com/kiss587898/iOSDeviceSupport/raw/master/11.1.zip)
