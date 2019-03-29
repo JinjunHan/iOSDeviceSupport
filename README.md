@@ -12,10 +12,6 @@
 * [iOS 11.2](https://github.com/kiss587898/iOSDeviceSupport/raw/master/11.2.zip)
 * [iOS 11.1](https://github.com/kiss587898/iOSDeviceSupport/raw/master/11.1.zip)
 * [iOS 11.0](https://github.com/kiss587898/iOSDeviceSupport/raw/master/11.0.zip)
-* [iOS 10.3](https://github.com/kiss587898/iOSDeviceSupport/raw/master/10.3.zip)
-* [iOS 10.2](https://github.com/kiss587898/iOSDeviceSupport/raw/master/10.2.zip)
-* [iOS 10.1](https://github.com/kiss587898/iOSDeviceSupport/raw/master/10.1.zip)
-* [iOS 10.0](https://github.com/kiss587898/iOSDeviceSupport/raw/master/10.0.zip)
 
 喜欢的点个star,方便下次再来^_^。
 
