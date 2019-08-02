@@ -5,6 +5,7 @@
 
 ## 便捷单包下载地址：
 * [iOS 13.0](https://github.com/kiss587898/iOSDeviceSupport/raw/master/13.0.zip)
+* [iOS 12.4 (16G73)](https://github.com/kiss587898/iOSDeviceSupport/raw/master/12.4%20(16G73).zip)
 * [iOS 12.3](https://github.com/kiss587898/iOSDeviceSupport/raw/master/12.3.zip)
 * [iOS 12.2](https://github.com/kiss587898/iOSDeviceSupport/raw/master/12.2.zip)
 * [iOS 12.1](https://github.com/kiss587898/iOSDeviceSupport/raw/master/12.1.zip)
