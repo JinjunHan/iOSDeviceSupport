@@ -10,6 +10,7 @@ open /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Devi
 
 | 版本 | 下载地址 |
 | --- | --- |
+| iOS 13.1 | [点击下载](https://github.com/JinjunHan/iOSDeviceSupport/raw/master/DeviceSupport/13.1.zip) |
 | iOS 13.0 | [点击下载](https://github.com/JinjunHan/iOSDeviceSupport/raw/master/DeviceSupport/13.0.zip) |
 | --- | --- |
 | iOS 12.4 | [点击下载](https://github.com/JinjunHan/iOSDeviceSupport/raw/master/DeviceSupport/12.4.zip) |
@@ -44,5 +45,5 @@ open /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Devi
 | iOS 7.0 | [点击下载](https://github.com/JinjunHan/iOSDeviceSupport/raw/master/DeviceSupport/7.0.zip) |
 
 喜欢的点个star,方便下次再来^_^。
-欢迎提交Pull Requests一直维护
+欢迎提交Pull Requests一起维护
 
