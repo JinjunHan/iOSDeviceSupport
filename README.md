@@ -5,7 +5,10 @@
 
 ### 1.使用[download.sh](https://github.com/JinjunHan/iOSDeviceSupport/raw/master/download.sh)脚本下载
 ```
-sudo download.sh 13.4(这里填写你需要下载的版本号)
+# 下载脚本文件
+curl -L -O https://github.com/JinjunHan/iOSDeviceSupport/raw/master/download.sh
+# 执行脚本，最后带参版本号
+sudo download.sh 13.4（这里填写你需要下载的版本号）
 ```
 ### 2.手动下载
 从下面的表中找到对应的版本下载，移动到Xcode目录
