@@ -1,6 +1,17 @@
 # iOSDeviceSupport
 各个版本的iOS Device Support
 
+## Usage
+
+### 1.使用[download.sh](https://github.com/JinjunHan/iOSDeviceSupport/raw/master/download.sh)脚本下载
+```
+# 下载脚本文件
+curl -L -O https://github.com/JinjunHan/iOSDeviceSupport/raw/master/download.sh
+# 执行脚本，最后带参版本号
+sudo download.sh 13.4（这里填写你需要下载的版本号）
+```
+### 2.手动下载
+从下面的表中找到对应的版本下载，移动到Xcode目录
 ```
 终端输入命令直接打开文件夹
 open /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/DeviceSupport
@@ -10,6 +21,8 @@ open /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Devi
 
 | 版本 | 下载地址 |
 | --- | --- |
+| iOS 13.4 | [点击下载](https://github.com/JinjunHan/iOSDeviceSupport/raw/master/DeviceSupport/13.4.zip) |
+| iOS 13.3 | [点击下载](https://github.com/JinjunHan/iOSDeviceSupport/raw/master/DeviceSupport/13.3.zip) |
 | iOS 13.2 | [点击下载](https://github.com/JinjunHan/iOSDeviceSupport/raw/master/DeviceSupport/13.2.zip) |
 | iOS 13.1 | [点击下载](https://github.com/JinjunHan/iOSDeviceSupport/raw/master/DeviceSupport/13.1.zip) |
 | iOS 13.0 | [点击下载](https://github.com/JinjunHan/iOSDeviceSupport/raw/master/DeviceSupport/13.0.zip) |
