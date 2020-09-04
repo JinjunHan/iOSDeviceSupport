@@ -22,6 +22,7 @@ open /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Devi
 | 版本 | 下载地址1 | 下载地址2
 | --- | --- | --- |
 | iOS 14.0 | [GitHub](https://github.com/JinjunHan/iOSDeviceSupport/raw/master/DeviceSupport/14.0.zip) | [Aliyun](https://code.aliyun.com/hanjinjun/iOSDeviceSupoort/raw/master/DeviceSupport/14.0.zip) |
+| iOS 13.7 | [GitHub](https://github.com/JinjunHan/iOSDeviceSupport/raw/master/DeviceSupport/13.7.zip) | [Aliyun](https://code.aliyun.com/hanjinjun/iOSDeviceSupoort/raw/master/DeviceSupport/13.7.zip) |
 | iOS 13.6 | [GitHub](https://github.com/JinjunHan/iOSDeviceSupport/raw/master/DeviceSupport/13.6.zip) | [Aliyun](https://code.aliyun.com/hanjinjun/iOSDeviceSupoort/raw/master/DeviceSupport/13.6.zip) |
 | iOS 13.5 | [GitHub](https://github.com/JinjunHan/iOSDeviceSupport/raw/master/DeviceSupport/13.5.zip) | [Aliyun](https://code.aliyun.com/hanjinjun/iOSDeviceSupoort/raw/master/DeviceSupport/13.5.zip) |
 | iOS 13.4 | [GitHub](https://github.com/JinjunHan/iOSDeviceSupport/raw/master/DeviceSupport/13.4.zip) | [Aliyun](https://code.aliyun.com/hanjinjun/iOSDeviceSupoort/raw/master/DeviceSupport/13.4.zip) |
