@@ -8,7 +8,7 @@
 # 下载脚本文件
 curl -L -O https://github.com/JinjunHan/iOSDeviceSupport/raw/master/download.sh
 # 执行脚本，最后带参版本号
-sudo download.sh 13.4（这里填写你需要下载的版本号）
+sudo download.sh 14.3（这里填写你需要下载的版本号）
 ```
 ### 2.手动下载
 从下面的表中找到对应的版本下载，移动到Xcode目录
@@ -21,6 +21,7 @@ open /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Devi
 
 | 版本 | 下载地址1 | 下载地址2
 | --- | --- | --- |
+| iOS 14.3 | [GitHub](https://github.com/JinjunHan/iOSDeviceSupport/raw/master/DeviceSupport/14.3.zip) | [Aliyun](https://code.aliyun.com/hanjinjun/iOSDeviceSupoort/raw/master/DeviceSupport/14.3.zip) |
 | iOS 14.2 | [GitHub](https://github.com/JinjunHan/iOSDeviceSupport/raw/master/DeviceSupport/14.2.zip) | [Aliyun](https://code.aliyun.com/hanjinjun/iOSDeviceSupoort/raw/master/DeviceSupport/14.2.zip) |
 | iOS 14.1 | [GitHub](https://github.com/JinjunHan/iOSDeviceSupport/raw/master/DeviceSupport/14.1.zip) | [Aliyun](https://code.aliyun.com/hanjinjun/iOSDeviceSupoort/raw/master/DeviceSupport/14.1.zip) |
 | iOS 14.0 | [GitHub](https://github.com/JinjunHan/iOSDeviceSupport/raw/master/DeviceSupport/14.0.zip) | [Aliyun](https://code.aliyun.com/hanjinjun/iOSDeviceSupoort/raw/master/DeviceSupport/14.0.zip) |
