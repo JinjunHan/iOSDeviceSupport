@@ -1,5 +1,5 @@
 # iOSDeviceSupport
-各个版本的iOS Device Support
+各个版本的iOS Device Support, 最新支持[iOS 14.6](https://github.com/JinjunHan/iOSDeviceSupport/raw/master/DeviceSupport/14.6.zip)
 
 ## Usage
 
@@ -21,6 +21,7 @@ open /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Devi
 
 | 版本 | 下载地址1 | 下载地址2
 | --- | --- | --- |
+| iOS 14.6 | [GitHub](https://github.com/JinjunHan/iOSDeviceSupport/raw/master/DeviceSupport/14.6.zip) | [Aliyun](https://code.aliyun.com/hanjinjun/iOSDeviceSupoort/raw/master/DeviceSupport/14.6.zip) |
 | iOS 14.5 | [GitHub](https://github.com/JinjunHan/iOSDeviceSupport/raw/master/DeviceSupport/14.5.zip) | [Aliyun](https://code.aliyun.com/hanjinjun/iOSDeviceSupoort/raw/master/DeviceSupport/14.5.zip) |
 | iOS 14.4 | [GitHub](https://github.com/JinjunHan/iOSDeviceSupport/raw/master/DeviceSupport/14.4.zip) | [Aliyun](https://code.aliyun.com/hanjinjun/iOSDeviceSupoort/raw/master/DeviceSupport/14.4.zip) |
 | iOS 14.3 | [GitHub](https://github.com/JinjunHan/iOSDeviceSupport/raw/master/DeviceSupport/14.3.zip) | [Aliyun](https://code.aliyun.com/hanjinjun/iOSDeviceSupoort/raw/master/DeviceSupport/14.3.zip) |
