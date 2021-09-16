@@ -17,6 +17,7 @@ open /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Devi
 | --- | --- | --- | --- |
 | iOS 15.0 | [GitHub](https://github.com/JinjunHan/iOSDeviceSupport/raw/master/DeviceSupport/15.0.zip) | [Aliyun](https://code.aliyun.com/hanjinjun/iOSDeviceSupoort/raw/master/DeviceSupport/15.0.zip) | [Gitee](https://gitee.com/Han0/iOSDeviceSupport/raw/master/DeviceSupport/15.0.zip) |
 | --- | --- | --- | --- |
+| iOS 14.8 | [GitHub](https://github.com/JinjunHan/iOSDeviceSupport/raw/master/DeviceSupport/14.8.zip) | [Aliyun](https://code.aliyun.com/hanjinjun/iOSDeviceSupoort/raw/master/DeviceSupport/14.8.zip) | [Gitee](https://gitee.com/Han0/iOSDeviceSupport/raw/master/DeviceSupport/14.8.zip) |
 | iOS 14.7 | [GitHub](https://github.com/JinjunHan/iOSDeviceSupport/raw/master/DeviceSupport/14.7.zip) | [Aliyun](https://code.aliyun.com/hanjinjun/iOSDeviceSupoort/raw/master/DeviceSupport/14.7.zip) | [Gitee](https://gitee.com/Han0/iOSDeviceSupport/raw/master/DeviceSupport/14.7.zip) |
 | iOS 14.6 | [GitHub](https://github.com/JinjunHan/iOSDeviceSupport/raw/master/DeviceSupport/14.6.zip) | [Aliyun](https://code.aliyun.com/hanjinjun/iOSDeviceSupoort/raw/master/DeviceSupport/14.6.zip) | [Gitee](https://gitee.com/Han0/iOSDeviceSupport/raw/master/DeviceSupport/14.6.zip) |
 | iOS 14.5 | [GitHub](https://github.com/JinjunHan/iOSDeviceSupport/raw/master/DeviceSupport/14.5.zip) | [Aliyun](https://code.aliyun.com/hanjinjun/iOSDeviceSupoort/raw/master/DeviceSupport/14.5.zip) | [Gitee](https://gitee.com/Han0/iOSDeviceSupport/raw/master/DeviceSupport/14.5.zip) |
