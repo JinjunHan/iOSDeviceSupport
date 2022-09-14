@@ -6,8 +6,9 @@
 
 ## Usage
 从下面的表中找到对应的版本下载，移动到Xcode目录
+
+终端输入命令直接打开文件夹:
 ```
-终端输入命令直接打开文件夹
 open /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/DeviceSupport
 ```
 
