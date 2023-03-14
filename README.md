@@ -1,5 +1,5 @@
 # iOSDeviceSupport
-各个版本的iOS Device Support, 最新支持 **iOS 16.3** [<u>Github</u>](https://github.com/JinjunHan/iOSDeviceSupport/raw/master/iOSDeviceSupport/16.3.zip) [<u>Gitee</u>](https://gitee.com/Han0/iOSDeviceSupport/raw/master/iOSDeviceSupport/16.3.zip) 
+各个版本的iOS Device Support, 最新支持 **iOS 16.4** [<u>Github</u>](https://github.com/JinjunHan/iOSDeviceSupport/raw/master/iOSDeviceSupport/16.4.zip) [<u>Gitee</u>](https://gitee.com/Han0/iOSDeviceSupport/raw/master/iOSDeviceSupport/16.4.zip) 
 * Github仓库: [https://github.com/JinjunHan/iOSDeviceSupport](https://github.com/JinjunHan/iOSDeviceSupport)
 * Gitee仓库: [https://gitee.com/Han0/iOSDeviceSupport](https://gitee.com/Han0/iOSDeviceSupport)
 
@@ -16,6 +16,7 @@ open /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Devi
 ### iOS
 | Version | Source1 | Source2 |
 | --- | --- | --- |
+| iOS 16.4 | [GitHub](https://github.com/JinjunHan/iOSDeviceSupport/raw/master/iOSDeviceSupport/16.4.zip) | [Gitee](https://gitee.com/Han0/iOSDeviceSupport/raw/master/iOSDeviceSupport/16.4.zip) |
 | iOS 16.3 | [GitHub](https://github.com/JinjunHan/iOSDeviceSupport/raw/master/iOSDeviceSupport/16.3.zip) | [Gitee](https://gitee.com/Han0/iOSDeviceSupport/raw/master/iOSDeviceSupport/16.3.zip) |
 | iOS 16.2 | [GitHub](https://github.com/JinjunHan/iOSDeviceSupport/raw/master/iOSDeviceSupport/16.2.zip) | [Gitee](https://gitee.com/Han0/iOSDeviceSupport/raw/master/iOSDeviceSupport/16.2.zip) |
 | iOS 16.1 | [GitHub](https://github.com/JinjunHan/iOSDeviceSupport/raw/master/iOSDeviceSupport/16.1.zip) | [Gitee](https://gitee.com/Han0/iOSDeviceSupport/raw/master/iOSDeviceSupport/16.1.zip) |
@@ -83,6 +84,7 @@ open /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Devi
 ### WatchOS
 | Version | Source1 | Source2 |
 | --- | --- | --- |
+| WatchOS 9.4 | [GitHub](https://github.com/JinjunHan/iOSDeviceSupport/raw/master/WatchOSDeviceSupport/9.4.zip) | [Gitee](https://gitee.com/Han0/iOSDeviceSupport/raw/master/WatchOSDeviceSupport/9.4.zip) |
 | WatchOS 9.1 | [GitHub](https://github.com/JinjunHan/iOSDeviceSupport/raw/master/WatchOSDeviceSupport/9.1.zip) | [Gitee](https://gitee.com/Han0/iOSDeviceSupport/raw/master/WatchOSDeviceSupport/9.1.zip) |
 | WatchOS 9.0 | [GitHub](https://github.com/JinjunHan/iOSDeviceSupport/raw/master/WatchOSDeviceSupport/9.0.zip) | [Gitee](https://gitee.com/Han0/iOSDeviceSupport/raw/master/WatchOSDeviceSupport/9.0.zip) |
 | --- | --- | --- |
