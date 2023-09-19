@@ -3,6 +3,17 @@
 * Github仓库: [https://github.com/JinjunHan/iOSDeviceSupport](https://github.com/JinjunHan/iOSDeviceSupport)
 * Gitee仓库: [https://gitee.com/Han0/iOSDeviceSupport](https://gitee.com/Han0/iOSDeviceSupport)
 
+# iOS 17
+### Solution 1
+Download the Xcode 15, hahaha
+### Solution 2
+In the terminal run:
+```
+defaults write com.apple.dt.Xcode DVTEnableCoreDevice enabled
+```
+And contain above 16.4 DeviceSupport in Xcode
+Then Restart the Xcode 14, Try it!
+
 ## Usage
 从下面的表中找到对应的版本下载，移动到Xcode目录
 
