@@ -1,5 +1,5 @@
 # iOSDeviceSupport
-各个版本的iOS Device Support, 最新支持 **iOS 16.6** [<u>Github</u>](https://github.com/JinjunHan/iOSDeviceSupport/raw/master/iOSDeviceSupport/16.6.zip) [<u>Gitee</u>](https://gitee.com/Han0/iOSDeviceSupport/raw/master/iOSDeviceSupport/16.6.zip) 
+各个版本的iOS Device Support, 最新支持 **iOS 16.7** [<u>Github</u>](https://github.com/JinjunHan/iOSDeviceSupport/raw/master/iOSDeviceSupport/16.7.zip) [<u>Gitee</u>](https://gitee.com/Han0/iOSDeviceSupport/raw/master/iOSDeviceSupport/16.7.zip) 
 * Github仓库: [https://github.com/JinjunHan/iOSDeviceSupport](https://github.com/JinjunHan/iOSDeviceSupport)
 * Gitee仓库: [https://gitee.com/Han0/iOSDeviceSupport](https://gitee.com/Han0/iOSDeviceSupport)
 
@@ -28,6 +28,7 @@ open /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Devi
 Cilick link to download.
 | Version | Source1 | Source2 |
 | --- | --- | --- |
+| iOS 16.7 | [GitHub](https://github.com/JinjunHan/iOSDeviceSupport/raw/master/iOSDeviceSupport/16.7.zip) | [Gitee](https://gitee.com/Han0/iOSDeviceSupport/raw/master/iOSDeviceSupport/16.7.zip) |
 | iOS 16.6 | [GitHub](https://github.com/JinjunHan/iOSDeviceSupport/raw/master/iOSDeviceSupport/16.6.zip) | [Gitee](https://gitee.com/Han0/iOSDeviceSupport/raw/master/iOSDeviceSupport/16.6.zip) |
 | iOS 16.5 | [GitHub](https://github.com/JinjunHan/iOSDeviceSupport/raw/master/iOSDeviceSupport/16.5.zip) | [Gitee](https://gitee.com/Han0/iOSDeviceSupport/raw/master/iOSDeviceSupport/16.5.zip) |
 | iOS 16.4 | [GitHub](https://github.com/JinjunHan/iOSDeviceSupport/raw/master/iOSDeviceSupport/16.4.zip) | [Gitee](https://gitee.com/Han0/iOSDeviceSupport/raw/master/iOSDeviceSupport/16.4.zip) |
