@@ -37,6 +37,7 @@ Cilick link to download.
 | iOS 16.1 | [GitHub](https://github.com/JinjunHan/iOSDeviceSupport/raw/master/iOSDeviceSupport/16.1.zip) | [Gitee](https://gitee.com/Han0/iOSDeviceSupport/raw/master/iOSDeviceSupport/16.1.zip) |
 | iOS 16.0 | [GitHub](https://github.com/JinjunHan/iOSDeviceSupport/raw/master/iOSDeviceSupport/16.0.zip) | [Gitee](https://gitee.com/Han0/iOSDeviceSupport/raw/master/iOSDeviceSupport/16.0.zip) |
 | --- | --- | --- |
+| iOS 15.8 | [GitHub](https://github.com/JinjunHan/iOSDeviceSupport/raw/master/iOSDeviceSupport/15.8.zip) | [Gitee](https://gitee.com/Han0/iOSDeviceSupport/raw/master/iOSDeviceSupport/15.8.zip) |
 | iOS 15.7 | [GitHub](https://github.com/JinjunHan/iOSDeviceSupport/raw/master/iOSDeviceSupport/15.7.zip) | [Gitee](https://gitee.com/Han0/iOSDeviceSupport/raw/master/iOSDeviceSupport/15.7.zip) |
 | iOS 15.6 | [GitHub](https://github.com/JinjunHan/iOSDeviceSupport/raw/master/iOSDeviceSupport/15.6.zip) | [Gitee](https://gitee.com/Han0/iOSDeviceSupport/raw/master/iOSDeviceSupport/15.6.zip) |
 | iOS 15.5 | [GitHub](https://github.com/JinjunHan/iOSDeviceSupport/raw/master/iOSDeviceSupport/15.5.zip) | [Gitee](https://gitee.com/Han0/iOSDeviceSupport/raw/master/iOSDeviceSupport/15.5.zip) |
